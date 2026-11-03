@@ -44,10 +44,11 @@ Vladimir Kruglov — independent researcher. Contact: [vladimirkruq5@gmail.com](
 - [Author profile — English](docs/author-profile-en.md)
 - [Профиль автора — русский](docs/author-profile-ru.md)
 - [作者简介 — 中文](docs/author-profile-zh.md)
-- [Outreach plan — English](docs/outreach-plan-en.md)
-- [План обращения — русский](docs/outreach-plan-ru.md)
-- [联系研究者的计划 — 中文](docs/outreach-plan-zh.md)
 - [Risks and ethics](docs/risks-and-ethics.md)
+- [Official source register](sources/official-sources.md)
+
+The outreach plan, recipient list and email drafts are kept locally in
+`local/private/outreach/` and are not part of the public research package.
 
 Technical architecture, prototype specifications and internal preparation notes
 are intentionally kept local in `local/private/` and are not part of the public

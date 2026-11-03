@@ -1,0 +1,65 @@
+# DEKSIRIP Pilot
+
+Research proposal for a small-scale, voluntary institutional experiment.
+
+This project does not present a finished economic system or claim originality
+for every mechanism. It asks whether several mechanisms tested separately in
+China and elsewhere can work together in one limited, transparent and
+reversible local pilot.
+
+## Core question
+
+Can a community provide basic needs unconditionally, distribute a share of the
+common product to residents, and direct additional resources through
+transparent cost information and voluntary project support without a central
+production plan or private rent from common assets?
+
+## Status
+
+Draft 0.1. This repository is a public-facing proposal derived from the main
+[DEKSIRIP repository](https://github.com/jetcar/deksirip). It is intended for
+academic criticism, not immediate implementation.
+
+## Documents
+
+- [Concept note](docs/concept-note-en.md)
+- [Русская концепция](docs/concept-note-ru.md)
+- [中文概要](docs/concept-note-zh.md)
+- [High-level model framework — English](docs/model-framework-en.md)
+- [Высокоуровневая рамка модели — русский](docs/model-framework-ru.md)
+- [高层模型框架 — 中文](docs/model-framework-zh.md)
+- [Definitions and objections — English](docs/definitions-and-objections-en.md)
+- [Понятия и возражения — русский](docs/definitions-and-objections-ru.md)
+- [概念与反对意见 — 中文](docs/definitions-and-objections-zh.md)
+- [Comparative analogs — English](docs/comparative-analogs-en.md)
+- [Карта аналогов — русский](docs/comparative-analogs-ru.md)
+- [比较案例 — 中文](docs/comparative-analogs-zh.md)
+- [Researcher invitation — English](docs/researcher-invitation-en.md)
+- [Обращение к исследователю — русский](docs/researcher-invitation-ru.md)
+- [给研究者的邀请 — 中文](docs/researcher-invitation-zh.md)
+- [Pilot design](docs/pilot-design.md)
+- [Evidence matrix](docs/evidence-matrix.md)
+- [Risks and ethics](docs/risks-and-ethics.md)
+- [Measurement plan](docs/measurement-plan.md)
+- [Proposal preparation plan](tasks/plan.md)
+- [Working checklist](tasks/todo.md)
+- [Technical architecture — English](docs/technical-architecture-en.md)
+- [Техническая архитектура — русский](docs/technical-architecture-ru.md)
+- [技术架构 — 中文](docs/technical-architecture-zh.md)
+- [Prototype specification — English](docs/prototype-spec-en.md)
+- [Спецификация прототипа — русский](docs/prototype-spec-ru.md)
+- [原型规格 — 中文](docs/prototype-spec-zh.md)
+
+## Principles
+
+- voluntary participation and a clear right of exit;
+- small-scale and reversible implementation;
+- independent audit and public data;
+- explicit stop conditions;
+- no claim that the model has already been proven;
+- criticism is treated as a research result.
+
+## Contact
+
+Contact details will be added after the proposal has an identified research
+owner and institutional host.

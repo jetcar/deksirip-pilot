@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this proposal, please cite the DEKSIRIP Pilot draft."
+title: "DEKSIRIP Pilot: A Local Pilot for Transparent Common-Resource Allocation"
+version: "0.1.0"
+date-released: "2026-11-03"
+authors:
+  - name: "DEKSIRIP project"
+repository-code: "https://github.com/jetcar/deksirip"
+license: "CC-BY-4.0"
+keywords:
+  - institutional economics
+  - common resources
+  - social dividend
+  - economic experiments
+  - China

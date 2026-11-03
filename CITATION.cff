@@ -4,7 +4,9 @@ title: "DEKSIRIP Pilot: A Local Pilot for Transparent Common-Resource Allocation
 version: "0.1.0"
 date-released: "2026-11-03"
 authors:
-  - name: "DEKSIRIP project"
+  - family-names: "Kruglov"
+    given-names: "Vladimir"
+    affiliation: "Independent researcher"
 repository-code: "https://github.com/jetcar/deksirip-pilot"
 license: "CC-BY-4.0"
 keywords:

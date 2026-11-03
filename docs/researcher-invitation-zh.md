@@ -27,4 +27,5 @@
 
 此致
 
-DEKSIRIP 项目作者
+Vladimir Kruglov（弗拉基米尔·克鲁格洛夫）  
+独立研究者，DEKSIRIP 项目

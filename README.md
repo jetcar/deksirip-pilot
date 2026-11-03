@@ -20,6 +20,11 @@ Draft 0.1. This repository is a public-facing proposal derived from the main
 [DEKSIRIP repository](https://github.com/jetcar/deksirip). It is intended for
 academic criticism, not immediate implementation.
 
+## Author
+
+Vladimir Kruglov — independent researcher. A fuller profile and contact address
+will be added before the first research outreach.
+
 ## Documents
 
 - [Concept note](docs/concept-note-en.md)
@@ -37,6 +42,9 @@ academic criticism, not immediate implementation.
 - [Researcher invitation — English](docs/researcher-invitation-en.md)
 - [Обращение к исследователю — русский](docs/researcher-invitation-ru.md)
 - [给研究者的邀请 — 中文](docs/researcher-invitation-zh.md)
+- [Author profile — English](docs/author-profile-en.md)
+- [Профиль автора — русский](docs/author-profile-ru.md)
+- [作者简介 — 中文](docs/author-profile-zh.md)
 - [Outreach plan — English](docs/outreach-plan-en.md)
 - [План обращения — русский](docs/outreach-plan-ru.md)
 - [联系研究者的计划 — 中文](docs/outreach-plan-zh.md)

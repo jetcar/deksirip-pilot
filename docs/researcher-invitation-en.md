@@ -31,4 +31,5 @@ appendices and are not the starting purpose of the project.
 
 Sincerely,
 
-Author of the DEKSIRIP project
+Vladimir Kruglov  
+Independent researcher, DEKSIRIP project

@@ -47,15 +47,13 @@ Vladimir Kruglov — independent researcher. Contact: [vladimirkruq5@gmail.com](
 - [Outreach plan — English](docs/outreach-plan-en.md)
 - [План обращения — русский](docs/outreach-plan-ru.md)
 - [联系研究者的计划 — 中文](docs/outreach-plan-zh.md)
-- [Pilot design](docs/pilot-design.md)
-- [Evidence matrix](docs/evidence-matrix.md)
 - [Risks and ethics](docs/risks-and-ethics.md)
-- [Measurement plan](docs/measurement-plan.md)
 
 Technical architecture, prototype specifications and internal preparation notes
 are intentionally kept local in `local/private/` and are not part of the public
-research package. They can be shared separately after the high-level concept
-has been reviewed.
+research package. Detailed pilot design, evidence mapping and measurement
+criteria are also kept there. These materials can be shared separately after
+the high-level concept has been reviewed.
 
 ## Principles
 

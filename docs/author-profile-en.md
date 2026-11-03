@@ -13,22 +13,19 @@ experience does not by itself validate the project's economic hypotheses.
 
 ## Why I work on DEKSIRIP
 
-While working as a programmer, I began watching and listening to history
-lectures during pauses for builds and tests; their economic explanations and
-detailed causal reasoning gradually shifted my views from anti-communism
-towards an interest in communist ideas and their theoretical responses to
-social problems.
-A book on economic history prepared at my request provided further examples
-that led me to hypothesise that a different organisation of access to resources
-could produce better outcomes, and to explore that possibility through DEKSIRIP.
-I am critical of capitalism's prospects and believe that modern digital tools
-and AI give us reasons to investigate alternatives to it, starting with open
-discussion and small, voluntary experiments.
+My interest in economic systems grew out of a fascination with history: while
+working as a programmer, I often listened to lectures while projects were
+building and tests were running, and I was particularly drawn to explanations
+of historical events through economic conditions and cause-and-effect
+relationships. Over time, I reconsidered my earlier rejection of communist
+ideas, and a book on economic history prepared at my request prompted a
+question: could a different way of organising production and distributing
+resources have helped avoid some of the problems it described?
 
-This is personal motivation, not evidence that DEKSIRIP works or that a change
-of economic system is inevitable. Historical examples and the book are starting
-points for questions, not substitutes for checking primary sources, comparing
-alternatives and independent evaluation.
+DEKSIRIP became an attempt to explore that question: I take a critical view of
+capitalism's prospects and see modern digital tools and AI as an opportunity
+to investigate alternative ways of organising the economy, whose viability
+remains to be tested.
 
 ## Research interests
 

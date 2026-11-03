@@ -16,7 +16,8 @@ production plan or private rent from common assets?
 
 ## Status
 
-Draft 0.1. This repository is a public-facing proposal derived from the main
+Research draft; standalone PDF packet version 0.2 (3 November 2026).
+This repository is a public-facing proposal derived from the main
 [DEKSIRIP repository](https://github.com/jetcar/deksirip). It is intended for
 academic criticism, not immediate implementation.
 
@@ -26,6 +27,7 @@ Vladimir Kruglov — independent researcher. Contact: [vladimirkruq5@gmail.com](
 
 ## Documents
 
+- Standalone PDF packets (5 pages, readable without GitHub): [English](papers/concept-note-en.pdf) · [Русский](papers/concept-note-ru.pdf) · [中文](papers/concept-note-zh.pdf)
 - [DEKSIRIP in 5 minutes — English](docs/model-at-a-glance-en.md)
 - [DEKSIRIP за 5 минут — русский](docs/model-at-a-glance-ru.md)
 - [五分钟了解 DEKSIRIP — 中文](docs/model-at-a-glance-zh.md)

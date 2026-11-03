@@ -32,4 +32,5 @@ appendices and are not the starting purpose of the project.
 Sincerely,
 
 Vladimir Kruglov  
-Independent researcher, DEKSIRIP project
+Independent researcher, DEKSIRIP project  
+vladimirkruq5@gmail.com

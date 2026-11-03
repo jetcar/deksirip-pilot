@@ -16,4 +16,4 @@
 DEKSIRIP 不是已经完成的政治纲领。项目希望获得学术批评，寻找相关先例，
 并判断哪些要素可以在小规模、自愿参加的试点中检验。
 
-作者联系方式和个人主页链接将在开始联系研究者前补充。
+联系方式：[vladimirkruq5@gmail.com](mailto:vladimirkruq5@gmail.com)

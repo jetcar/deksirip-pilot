@@ -17,4 +17,4 @@ DEKSIRIP is not a finished political programme. The project seeks academic
 criticism, relevant precedents and a determination of which elements could be
 tested in a small voluntary pilot.
 
-The author's contact and profile link will be added before outreach begins.
+Contact: [vladimirkruq5@gmail.com](mailto:vladimirkruq5@gmail.com)

@@ -22,8 +22,7 @@ academic criticism, not immediate implementation.
 
 ## Author
 
-Vladimir Kruglov — independent researcher. A fuller profile and contact address
-will be added before the first research outreach.
+Vladimir Kruglov — independent researcher. Contact: [vladimirkruq5@gmail.com](mailto:vladimirkruq5@gmail.com).
 
 ## Documents
 

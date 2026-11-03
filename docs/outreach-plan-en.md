@@ -54,7 +54,7 @@ The message should be sent only after these fields are filled:
 ```text
 Author name:
 Affiliation or independent-researcher status:
-Email:
+Email: vladimirkruq5@gmail.com
 Acceptable reply languages:
 ```
 

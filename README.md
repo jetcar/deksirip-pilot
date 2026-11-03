@@ -51,14 +51,11 @@ Vladimir Kruglov — independent researcher. Contact: [vladimirkruq5@gmail.com](
 - [Evidence matrix](docs/evidence-matrix.md)
 - [Risks and ethics](docs/risks-and-ethics.md)
 - [Measurement plan](docs/measurement-plan.md)
-- [Proposal preparation plan](tasks/plan.md)
-- [Working checklist](tasks/todo.md)
-- [Technical architecture — English](docs/technical-architecture-en.md)
-- [Техническая архитектура — русский](docs/technical-architecture-ru.md)
-- [技术架构 — 中文](docs/technical-architecture-zh.md)
-- [Prototype specification — English](docs/prototype-spec-en.md)
-- [Спецификация прототипа — русский](docs/prototype-spec-ru.md)
-- [原型规格 — 中文](docs/prototype-spec-zh.md)
+
+Technical architecture, prototype specifications and internal preparation notes
+are intentionally kept local in `local/private/` and are not part of the public
+research package. They can be shared separately after the high-level concept
+has been reviewed.
 
 ## Principles
 

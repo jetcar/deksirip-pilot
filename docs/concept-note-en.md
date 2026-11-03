@@ -83,10 +83,10 @@ and estimate whether the package is testable at all.
 
 The desired first outcome is a research critique, not an endorsement.
 
-## 8. Technical architecture
+## 8. Scope of this public note
 
 The model's high-level logic is set out in the [model
-framework](model-framework-en.md). The technical layer is a subsequent,
-separate document: [technical architecture](technical-architecture-en.md). It
-covers the physical resource register, electronic voting, the AI assistant,
-audit, privacy, offline operation and a limited emergency mandate.
+framework](model-framework-en.md). Technical architecture and prototype
+specifications are intentionally kept outside this public first-stage package.
+They can be reviewed separately after the conceptual proposal has received
+initial academic criticism.

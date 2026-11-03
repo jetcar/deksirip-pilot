@@ -26,6 +26,9 @@ Vladimir Kruglov — independent researcher. Contact: [vladimirkruq5@gmail.com](
 
 ## Documents
 
+- [DEKSIRIP in 5 minutes — English](docs/model-at-a-glance-en.md)
+- [DEKSIRIP за 5 минут — русский](docs/model-at-a-glance-ru.md)
+- [五分钟了解 DEKSIRIP — 中文](docs/model-at-a-glance-zh.md)
 - [Concept note](docs/concept-note-en.md)
 - [Русская концепция](docs/concept-note-ru.md)
 - [中文概要](docs/concept-note-zh.md)

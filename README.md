@@ -61,5 +61,5 @@ academic criticism, not immediate implementation.
 
 ## Contact
 
-Contact details will be added after the proposal has an identified research
-owner and institutional host.
+Until a research owner and institutional host are identified, comments can be
+submitted through [GitHub Issues](https://github.com/jetcar/deksirip-pilot/issues).

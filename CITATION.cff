@@ -5,7 +5,7 @@ version: "0.1.0"
 date-released: "2026-11-03"
 authors:
   - name: "DEKSIRIP project"
-repository-code: "https://github.com/jetcar/deksirip"
+repository-code: "https://github.com/jetcar/deksirip-pilot"
 license: "CC-BY-4.0"
 keywords:
   - institutional economics

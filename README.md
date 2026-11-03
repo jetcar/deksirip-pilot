@@ -23,7 +23,16 @@ academic criticism, not immediate implementation.
 
 ## Author
 
-Vladimir Kruglov — independent researcher. Contact: [vladimirkruq5@gmail.com](mailto:vladimirkruq5@gmail.com).
+Vladimir Kruglov — software developer and independent researcher behind DEKSIRIP.
+His [LinkedIn profile](https://www.linkedin.com/in/vladimir-kruglov-7q/)
+describes more than 15 years of experience in .NET development and software
+architecture. His professional background is in software engineering;
+DEKSIRIP is his independent inquiry into economic institutions.
+
+Author background and personal motivation:
+[English](docs/author-profile-en.md) · [Русский](docs/author-profile-ru.md) · [中文](docs/author-profile-zh.md).
+
+Contact: [vladimirkruq5@gmail.com](mailto:vladimirkruq5@gmail.com).
 
 ## Documents
 

@@ -85,6 +85,12 @@ Contact: [vladimirkruq5@gmail.com](mailto:vladimirkruq5@gmail.com).
 - [Risks and ethics](docs/risks-and-ethics.md)
 - [Official source register](sources/official-sources.md)
 
+**On translations.** The Chinese documents are AI translations without native
+review. Each one carries a note at the top pointing to the English text as
+authoritative. There is no Chinese pilot kit: the kit is meant to be executed,
+and an executable instruction that the reader must check against another
+language is not executable. It will appear after a native-speaker review.
+
 The outreach plan, recipient list and email drafts are kept locally in
 `local/private/outreach/` and are not part of the public research package.
 

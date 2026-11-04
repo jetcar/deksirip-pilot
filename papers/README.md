@@ -12,6 +12,11 @@ limits of inference, and the author's contact. GitHub access is not required
 to read or comment on the packet. These are research proposals, not evidence
 that the full model has been tested or validated.
 
+> **Note on the Chinese packet.** `concept-note-zh.pdf` predates the translation
+> note now carried by the Chinese Markdown documents. It is an AI translation
+> without native review; the English packet is authoritative. Rebuild it before
+> circulating it to Chinese readers.
+
 Каждый PDF — самостоятельный материал: модель и пример, концепция пилота,
 вопросы исследователю, источники с оговорками и контакт автора. Доступ к GitHub
 для чтения и ответа не нужен. Версия 0.2 от 3 ноября 2026 года, 5 страниц.

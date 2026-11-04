@@ -1,5 +1,7 @@
 # 关键概念与主要反对意见
 
+> **翻译说明：** 本文由人工智能翻译，未经母语者审校。如遇歧义，以[英文版](definitions-and-objections-en.md)为准。发现误译请提交 [issue](https://github.com/jetcar/deksirip-pilot/issues)。
+
 本文在讨论制度和技术之前，先固定关键术语的含义。
 
 ## 一、工作定义

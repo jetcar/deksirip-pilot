@@ -1,34 +1,37 @@
 # Tools
 
-## `build_packet_zh.py`
+## `build_packet.py`
 
-Rebuilds [`papers/concept-note-zh.pdf`](../papers/concept-note-zh.pdf) from
-[`docs/model-at-a-glance-zh.md`](../docs/model-at-a-glance-zh.md) and
-[`docs/concept-note-zh.md`](../docs/concept-note-zh.md).
+Builds all three packets in `papers/` from the Markdown in `docs/`:
 
 ```bash
-python tools/build_packet_zh.py            # writes papers/concept-note-zh.pdf
-python tools/build_packet_zh.py out.pdf    # or somewhere else
+python tools/build_packet.py
 ```
 
-Requirements: `pip install reportlab`, and the Arial Unicode MS font — the same
-one the published packets embed. Set `DEKSIRIP_FONT` to its path if it is not in
-a standard location.
+Requires `reportlab` and Arial Unicode MS (override the font path with
+`DEKSIRIP_FONT`). `pypdf` and `PyMuPDF` are optional: with them the script
+verifies each packet and writes QA images to `local/private/pdf-qa/`, without
+them it only writes the PDFs.
 
-The Russian and English packets were produced by the author's
-original tool, which is not in this repository. This script reproduces the
-Chinese packet's geometry from measurements of that output — A4, text left at
-59.86 pt, frame width 477.1 pt, footer at 34 pt, 19 / 12 / 10 / 9 / 8 pt on a
-20 pt grid, headings in `#172F4D` — so a rebuilt Chinese packet looks like the
-other two rather than like a different document.
+A packet is five pages built from five blocks with a forced page break between
+them:
 
-Three things are deliberate:
+1. `model-at-a-glance` up to "what is common";
+2. the rest of `model-at-a-glance`;
+3. `concept-note` up to §4;
+4. `concept-note` from §4;
+5. the closing page — questions, sources, contact — which lives in `END` in the
+   script because it exists only in the packet.
 
-- the cover carries one translation note, so a five-page file states its
-  provenance once instead of repeating it after every heading;
-- block quotes from the sources (`> 翻译说明…`) are skipped for that reason;
-- the page-5 block — questions, sources, contact — is text in this script, not
-  in the Markdown sources, because it exists only in the packet.
+Three things explain the shape of the output:
 
-The output is close to, not byte-identical with, the original tool's files.
-Page breaks may fall differently; content and styling do not.
+- the concept note's scope section (§8) is dropped and its version line removed,
+  because the packet carries its own title and date on page 1;
+- block quotes (`> 翻译说明…`) render as the small grey note that states a text
+  is machine translated;
+- forcing a break before each block is why page 1 ends with white space.
+
+The English and Russian packets in `papers/` were rebuilt with this script from
+unchanged sources and reproduce the published files page for page, so the
+styling — 19 mm margins, 19 / 12 / 10 / 9 / 8 pt, navy `#17324D` headings — is
+the original, not an approximation.

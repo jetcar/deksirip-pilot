@@ -14,12 +14,35 @@ common product to residents, and direct additional resources through
 transparent cost information and voluntary project support without a central
 production plan or private rent from common assets?
 
+## Take it and run it
+
+This repository is not a proposal waiting for its author to be given a research
+post. Everything needed to run a small, real test of the coordination layer is
+public, and nobody has to be asked first:
+[pilot kit — English](docs/pilot-kit-en.md) ·
+[пилот в коробке — русский](docs/pilot-kit-ru.md).
+
+The kit is written so that a cooperative, an energy community, a food
+cooperative, a dormitory, a pop-up village or a small municipality can run one
+allocation cycle in 8–12 weeks, with no new money and no change in the law. Its
+terms of use are at the top: no permission, no approval, no contact required, and
+a negative result is a valid result.
+
 ## Status
 
 Research draft; standalone PDF packet version 0.2 (3 November 2026).
-This repository is a public-facing proposal derived from the main
-[DEKSIRIP repository](https://github.com/jetcar/deksirip). It is intended for
-academic criticism, not immediate implementation.
+Public-facing proposal derived from the main
+[DEKSIRIP repository](https://github.com/jetcar/deksirip).
+
+The repository has two levels:
+
+- **the pilot kit** — executable now, by anyone, without the author;
+- **the full pilot** (concept note) — requires a host with legal authority, a
+  budget and an independent evaluation team.
+
+The author does not intend to lead a field research project himself. The design
+is published in a form that others can run without him, and the result matters
+more than the authorship.
 
 ## Author
 
@@ -36,6 +59,7 @@ Contact: [vladimirkruq5@gmail.com](mailto:vladimirkruq5@gmail.com).
 
 ## Documents
 
+- Pilot kit (run it yourself, no permission needed): [English](docs/pilot-kit-en.md) · [Русский](docs/pilot-kit-ru.md) · 中文 — after a native-speaker review
 - Standalone PDF packets (5 pages, readable without GitHub): [English](papers/concept-note-en.pdf) · [Русский](papers/concept-note-ru.pdf) · [中文](papers/concept-note-zh.pdf)
 - [DEKSIRIP in 5 minutes — English](docs/model-at-a-glance-en.md)
 - [DEKSIRIP за 5 минут — русский](docs/model-at-a-glance-ru.md)
@@ -65,10 +89,10 @@ The outreach plan, recipient list and email drafts are kept locally in
 `local/private/outreach/` and are not part of the public research package.
 
 Technical architecture, prototype specifications and internal preparation notes
-are intentionally kept local in `local/private/` and are not part of the public
-research package. Detailed pilot design, evidence mapping and measurement
-criteria are also kept there. These materials can be shared separately after
-the high-level concept has been reviewed.
+are kept local in `local/private/`. The part of the pilot design that can be run
+without the author is public in the [pilot kit](docs/pilot-kit-en.md). Materials
+that only make sense with a host holding legal authority, a budget and an ethics
+review are shared after a first review.
 
 ## Principles
 
@@ -77,7 +101,8 @@ the high-level concept has been reviewed.
 - independent audit and public data;
 - explicit stop conditions;
 - no claim that the model has already been proven;
-- criticism is treated as a research result.
+- criticism is treated as a research result;
+- anyone may run, adapt or reject the design without asking the author.
 
 ## Contact
 

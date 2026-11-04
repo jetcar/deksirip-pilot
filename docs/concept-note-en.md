@@ -4,6 +4,11 @@
 **Purpose:** academic review and possible research collaboration  
 **Scope:** voluntary local pilot; not a proposal for immediate national reform
 
+**To run something now:** the [pilot kit](pilot-kit-en.md) is executable by a
+cooperative, energy community, dormitory or small municipality without a host
+institution and without the author. This note describes the larger pilot that
+does need one.
+
 ## 1. Summary
 
 This concept note proposes a small, voluntary and reversible pilot combining

@@ -29,6 +29,12 @@ The materials are available in Russian, English and Chinese. The technical tools
 — a resource register, electronic voting and an AI assistant — are placed in
 appendices and are not the starting purpose of the project.
 
+If you would rather run something than review it, start with the
+[pilot kit](pilot-kit-en.md). It is designed to be executed without the author,
+without a host institution and without funding, and it states its own failure
+thresholds. My agreement is not needed to use it; I would only ask that the
+result be published either way.
+
 Sincerely,
 
 Vladimir Kruglov

@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this proposal, please cite the DEKSIRIP Pilot draft."
 title: "DEKSIRIP Pilot: A Local Pilot for Transparent Common-Resource Allocation"
-version: "0.1.0"
-date-released: "2026-11-03"
+version: "1.0.0"
+date-released: "2026-11-04"
 authors:
   - family-names: "Kruglov"
     given-names: "Vladimir"

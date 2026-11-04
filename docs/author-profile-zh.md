@@ -1,5 +1,7 @@
 # 作者简介
 
+> **翻译说明：** 本文由人工智能翻译，未经母语者审校。如遇歧义，以[英文版](author-profile-en.md)为准。发现误译请提交 [issue](https://github.com/jetcar/deksirip-pilot/issues)。
+
 **Vladimir Kruglov（弗拉基米尔·克鲁格洛夫）是软件开发者、独立研究者，也是 DEKSIRIP 项目的发起人。**
 
 ## 职业背景

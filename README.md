@@ -60,6 +60,7 @@ Contact: [vladimirkruq5@gmail.com](mailto:vladimirkruq5@gmail.com).
 ## Documents
 
 - Pilot kit (run it yourself, no permission needed): [English](docs/pilot-kit-en.md) · [Русский](docs/pilot-kit-ru.md) · 中文 — after a native-speaker review
+- Minimum requirements for a zone, 18 sections of design analysis: [English](docs/minimum-requirements-en.md) · [Русский](docs/minimum-requirements-ru.md) · 中文 — not yet translated
 - Standalone PDF packets (5 pages, readable without GitHub): [English](papers/concept-note-en.pdf) · [Русский](papers/concept-note-ru.pdf) · [中文](papers/concept-note-zh.pdf)
 - [DEKSIRIP in 5 minutes — English](docs/model-at-a-glance-en.md)
 - [DEKSIRIP за 5 минут — русский](docs/model-at-a-glance-ru.md)

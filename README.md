@@ -97,9 +97,11 @@ The outreach plan, recipient list and email drafts are kept locally in
 
 Technical architecture, prototype specifications and internal preparation notes
 are kept local in `local/private/`. The part of the pilot design that can be run
-without the author is public in the [pilot kit](docs/pilot-kit-en.md). Materials
-that only make sense with a host holding legal authority, a budget and an ethics
-review are shared after a first review.
+without the author is public in the [pilot kit](docs/pilot-kit-en.md); the
+zone-level analysis is public in [minimum
+requirements](docs/minimum-requirements-en.md). What remains private is material
+that depends on a named host: recipient lists, drafts, and preparation notes for
+a specific institution.
 
 ## Principles
 

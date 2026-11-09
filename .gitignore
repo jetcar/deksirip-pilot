@@ -3,3 +3,7 @@
 # publish recipient lists, personal drafts, or send logs.
 /outreach/private/
 /local/private/
+
+# Python bytecode
+__pycache__/
+*.pyc
